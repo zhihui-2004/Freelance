@@ -1,0 +1,2 @@
+C:\Users\vlogi\Waihan-Dev\OneDrive\Projects\Unity\Github\Freelance_VR-Fire-Safety-Simulation\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\vlogi\Waihan-Dev\OneDrive\Projects\Unity\Github\Freelance_VR-Fire-Safety-Simulation\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
